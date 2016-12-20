@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class SocketClientController {
     public static void main(String args[]) {
         if (args.length != 1) {
-            System.out.println("USAGE: java SocketClientController 대화명");
+            System.out.println("USAGE: java SocketClientController 대화명 크하하");
             System.exit(0);
         }
         try {
